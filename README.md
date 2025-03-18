@@ -1,2 +1,5 @@
-# donationTrackers
-for the office contest
+# Donation Trackers
+
+<img src="art/board.jpg" width="800">
+
+![](art/schematic.jpg)
